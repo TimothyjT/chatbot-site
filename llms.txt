@@ -38,7 +38,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/dRm8wP2cA05e40a3J4gYU03
 - Q: How is this different from the $49 website agent?
   A: That one answers from your website pages, on your site only. This one is built around your business: more questions, in your wording, and it can point a customer to your booking page or take their details.
 - Q: What happens when it can’t answer?
-  A: It doesn’t guess. It takes the customer’s details and hands the conversation to you, with everything they already said attached.
+  A: It doesn’t guess. It takes the customer’s name and contact details, and the question it couldn’t answer is logged for you. Every lead lands in your private lead view right away; an optional push to a webhook you control, or email via your own mail relay, can be arranged at setup.
 - Q: Will it sound like a robot?
   A: It answers in plain words, using the answers you approved. You read every answer before it ever goes live.
 - Q: Can I cancel?
