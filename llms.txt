@@ -50,6 +50,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/dRm8wP2cA05e40a3J4gYU03
 - Pricing: https://chatbot.northbeambuilds.com/pricing/
 - FAQ: https://chatbot.northbeambuilds.com/faq/
 - Contact: https://chatbot.northbeambuilds.com/contact/
+- Compare the FAQ Agent and the AI Chatbot: https://northbeambuilds.com/compare/faq-agent-vs-chatbot/
 - Concept demo (not a client): https://northbeambuilds.com/demos/brooks/
 
 ## Contact
